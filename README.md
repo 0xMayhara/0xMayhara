@@ -1,16 +1,18 @@
-## Hi there 👋
+### 0xMayhara
 
-<!--
-**0xMayhara/0xMayhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cybersecurity engineer.
 
-Here are some ideas to get you started:
+threat intelligence.  
+reverse engineering.  
+soc operations.  
+malware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+breaking things down to understand how they work.
+
+tracking adversaries,  
+studying tradecraft,  
+building detections.
+
+`cti / reversing / detection / malware`
+
+no noise.
